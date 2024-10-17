@@ -31,3 +31,5 @@ Flare Report
 - [ ] Setting up TAM file queries to automate data gathering for fluid level shots 
 
 
+- [ ] Dan temperature query
+- [ ] 
