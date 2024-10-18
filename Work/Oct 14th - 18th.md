@@ -1,3 +1,4 @@
+- [ ] start getting notes into github projects
 - Restore OneDrive to pre-OCT 5th issues 
 	- [x] Keith is running a powershell script that should sync it back up
 	- [x] All synced up again 
