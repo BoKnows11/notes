@@ -4,8 +4,8 @@
 
 
  Detechtion Data
- - [ ] Get data into snowflake prod env (Jared)
- - [ ] Create Detechtion asset ID to INEOS site id mapping table
+ - [x] Get data into snowflake prod env (Jared)
+ - [x] Create Detechtion asset ID to INEOS site id mapping table
  - [ ] Incorporate data into existing PBI tools
 
 
@@ -32,4 +32,8 @@ Flare Report
 
 
 - [ ] Dan temperature query
+
+
+- [x] Down well query 
+	- [ ] Need to make the query more permanent, but the query is built out for testing 
 - [ ] 
