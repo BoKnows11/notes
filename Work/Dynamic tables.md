@@ -1,3 +1,7 @@
+
+- [ ] WELL_EVENT_TRACKER should be updated with a procedure/task
+- [ ] GL_DATA_W_ROW_NUMBER
+
 I am having an issue with the row_number window functions in these dynamic tables using a ton of compute in the snowflake warehouse and constraining the system. Can you look at the dynamic table logic, and provide an alternative solution for the row_number window function issue and dependent changes that will need to be made in the child tables to ensure the logic works as intended?
 
 Here is one of the table paths:
@@ -5,6 +9,15 @@ Here is one of the table paths:
 2. RP_WELL_STATE_DATA_W_ROW_NUM_V2
 3. RP_EVENT_TRACKER
 4. RP_DOWN_EVENTS_V2
+
+
+GL_DATA
+GL_DATA_W_ROW_NUMBER
+CURRENT_INJECTION_RATES_SITES, , GAS_LIFT_START_DATES
+GL_PADS_CURRENTLY_UNDERPERFORMING, CURRENT_LOW_INJECTION_WELLS
+
+
+
 
 Table Definitions:
 RP_WELL_STATE_DATA
