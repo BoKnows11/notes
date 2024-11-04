@@ -40,3 +40,9 @@ Flare Report
 
 
 PDFs for every route 
+
+
+
+We need a more accurate current oil vol and projected oil vol. Right now, I am looking at the last time the oil_vol_tdy was less than the previous value (this should return the timestamp just after rtu clock changes to a new day) and getting the value and timestamp of the most recent oil_vol_tdy measurement. By knowing what time the value reset at, we can calculate a projected 24 hour rate and compare that to the oil goal. 
+A further improvement would be to get the avg shrink factor from the oam vols vs allocated vols to scale the oam values automatically. This will held clean up noise on meters that consistently have water flowing through their meters. 
+To get bulk and test wells vols, we would ideally sum the test and bulk oams and divy the production by the last test data we have on file - or divvy the prod by the oil forecasts to get a rough idea how much each well is contributing.  
