@@ -34,3 +34,8 @@ Flare data issues. Investigated missing data for about 3 hours. Got with IIQ and
 
 # 2/18 
 Melinda asked for a Master well sheet. Took 10 min to send her a query that worked. 
+
+# 2/19
+Worked on RCFA data and visuals updates - 1 hr 
+sat in rcfa mtg - 1.25 hrs 
+
