@@ -64,6 +64,11 @@ Updated Detechtion mapping table (OPERATIONS.PROD.DETECHTION_SITE_MAP)
 - [x] TODO: figure out where comp MC1817 is located. It currently has the VW CPF which doesnt make much sense given that there are no wells on the VW CPF. Waiting on a response from Mase to get this sorted out.  
 	This unit is actually a Flash Gas Comp on the VW CPF and is currently getting left off the analysis. 
 - [ ] TODO: filter out any other Flash Gas units across the field. 
+- [ ] TODO: Need a way to combine pads that have more than one compressor on each site down events into a log that can only have one event per time. On pads with more than one compressor, if both are down at the same time, they have overlapping compressor events. Does it make sense to aggregate comp events into an event table? Basically, have an intermediary table that checks:
+		- Does the pad have more than one unit. 
+		- If yes, find and compare overlapping compressor events on the same pad. Combine overlapping events into the same event where they overlap. On events on multi-compressor pads that have a down compressor but not every compressor is down, set the is_down col = False, and add in the comments the unit #(s) that went down. 
+		- If a pad only has one compressor, treat it as is since one unit going down equates to everything going down. 
+		- Just need a way of making sure compressor events do not overlap on the same pad. Combining overlapping events should alleviate this issue. 
 
 - [x] TODO: Need to have a compressor/site to well mapping that only cascades compressor events to wells that are on GL, GAPL, or PAGL on that pad. 
 For now, I have the following table created as a way of "cascading events" down to each well:
