@@ -40,4 +40,7 @@ Worked on RCFA data and visuals updates - 1 hr
 sat in rcfa mtg - 1.25 hrs 
 
 # 2/20 
-Compressor Emissions Met with MH & SR  
+Compressor Emissions Met with MH & SR to go over quantifying the number of blowdowns and the % runtime of each unit in our field. 
+### TODO:
+- [ ]  Need to get a count of the number of distinct startups for each unit (consecutive codes with no time between them should be classified as the sam e event.) 
+- [ ] 
