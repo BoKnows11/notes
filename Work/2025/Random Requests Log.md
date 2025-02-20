@@ -39,3 +39,5 @@ Melinda asked for a Master well sheet. Took 10 min to send her a query that work
 Worked on RCFA data and visuals updates - 1 hr 
 sat in rcfa mtg - 1.25 hrs 
 
+# 2/20 
+Compressor Emissions Met with MH & SR  
