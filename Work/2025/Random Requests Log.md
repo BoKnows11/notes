@@ -46,3 +46,7 @@ Compressor Emissions Mtg with MH & SR to go over quantifying the number of blowd
 - [ ] Also a count of the DT per day for each unit and 
 
 Met with Matt R on powerbi and snowflake reporting. 45 min 
+
+# 3/5
+Taught Matt R up on some PBI stuff so he can start messing around in there and learn how to use it. 1 hr
+
