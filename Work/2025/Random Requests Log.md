@@ -50,3 +50,5 @@ Met with Matt R on powerbi and snowflake reporting. 45 min
 # 3/5
 Taught Matt R up on some PBI stuff so he can start messing around in there and learn how to use it. 1 hr
 
+# 3/6 
+Chris Clark asked me to refresh the rcfa data for a fresh pull on early failures.  ~1 hr 
