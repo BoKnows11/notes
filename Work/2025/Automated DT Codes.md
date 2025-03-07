@@ -1,5 +1,5 @@
 Built dictionary tables for RP, RTU and compressor events. 
-- [ ] TODO: Does it make sense to combine these into one singular dictionary table or leave them as 3 separate entities?
+- [x] TODO: Does it make sense to combine these into one singular dictionary table or leave them as 3 separate entities?
 
 ## MIDSTREAM_STATUS_LOG
 Currently have a placeholder table for Midstream statuses. It currently has no data in it. 
