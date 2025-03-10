@@ -3,9 +3,8 @@
 _Production is our cash register: SMARTly define your projects that will maximize this. Specify value._
 
 1. Automate deferment coding by 4/1/25. 
-
-2. Implement pred_def_tdy calculations into our dispatching logic so that we are assigning value to prospective jobs with the most up to date production data possible by 5/1.
-
+2. Implement pred_def_tdy calculations into our dispatching logic so that we are assigning value to prospective jobs with the most up to date production data possible by 5/1.
+3. 
 
 # HSE Objectives
 
@@ -31,19 +30,13 @@ _If it is recurring, repeatable, and complex—standardize it. SMARTly define yo
 _Growth begins at the edge of your comfort zone: SMARTly define your professional improvement goals._
 
 1. Get familiar with web development by learning CSS, html, and a js framework like Svelte, Lynx, Reacte, etc. Use these skills to build the best application possible 
-
 2. 
-
-3. 
-
 # Personal Growth
 
 _Small daily improvements lead to big life changes over time. SMARTly define your personal growth goals._
 
 1.  Complete all PT for shoulder recovery and workout >4 days a week 
-
-2.  Consistently get to bed by 11 pm by 3/1
-
+2. Consistently get to bed by 11 pm by 3/1
 3. 
 
 # Leadership Growth
