@@ -2,46 +2,47 @@
 
 _Production is our cash register: SMARTly define your projects that will maximize this. Specify value._
 
-1. Example: Enable the Ops staff to diagnose wells quickly by providing context of what is possibly wrong with a well by 4/1. The value of this is more efficient and effective staff- we should ideally see reliability of wells increase. We will measure pre/post performance with a reliability score and feedback.
+1. Automate deferment coding by 4/1/25. 
 
-2. Automate deferment coding by 4/1/25. 
+2. Implement pred_def_tdy calculations into our dispatching logic so that we are assigning value to prospective jobs with the most up to date production data possible by 5/1.
 
-3.       …
 
 # HSE Objectives
 
 _Effective HSE is what allows us to continue to operate: SMARTly define your projects that will improve this. Specify value._
 
-1. Example: Develop a flare reporting tool containing all flares that alerts regulatory and Ops foreman when a flare is unlit by 3/1. The value of this is our regulator requirement 123 will be met and emissions will be reduced. This will be measured by the average time unlit.
-1. Create radius of exposure (ROE) maps by 2/28. Will allow our HSE team to quickly reference the relevant ROEs when needed and be easier to access than arcGIS.
-2.  
+1. Send radius of exposure (ROE) data to Jase and Sabina by 2/28. Will allow our HSE team to quickly reference the relevant ROEs on each pad to create maps for the HSE team.
+2. Incorporate surface csg flags into job flagging logic to keep us in compliance with TRRC stipulations for surface csg by 6/1.
+3. 
+
+
 
 # Standardization Objectives
 
 _If it is recurring, repeatable, and complex—standardize it. SMARTly define your standardization projects. Specify value._
 
 1. Automate offset frac map process by 8/1/25.
-2. Automate DAYS DOWN report by moving units and cessations to a centralized snowflake table so that the report can be updated daily. 
-2. Migrate common data sources that are currently housed in various spreadsheets and pbi reports to Snowflake
+2. Automate DAYS DOWN report by moving units and cessations to a centralized snowflake table so that the report can be updated daily 6/1
+2. Migrate common data sources that are currently housed in various spreadsheets and pbi reports to Snowflake by 5/1
 3. 
 
 # Professional Development
 
 _Growth begins at the edge of your comfort zone: SMARTly define your professional improvement goals._
 
-1.       Example: Complete Downhole Diagnostics rod pump training course by 5/1. Review learnings with my leader and 1 SME to challenge and improve my understanding.
+1. Get familiar with web development by learning CSS, html, and a js framework like Svelte, Lynx, Reacte, etc. Use these skills to build the best application possible 
 
-2.       …
+2. 
 
-3.       …
+3. 
 
 # Personal Growth
 
 _Small daily improvements lead to big life changes over time. SMARTly define your personal growth goals._
 
-1.  Complete all PT for shoulder recovery and workout 4 days a week once cleared
+1.  Complete all PT for shoulder recovery and workout >4 days a week 
 
-2.  Get to bed by 11 pm
+2.  Consistently get to bed by 11 pm by 3/1
 
 3. 
 
@@ -51,9 +52,9 @@ _Great leaders set the standard they wish to see. SMARTly define your leadership
 
 1.       Example: Lead a biweekly foreman engagement call reviewing the optimization wins and learnings from the OC by 4/1.
 
-2.       Example: Begin a book club with anyone at INEOS on organizational philosophy by 2/1 and meet every 3 months to discuss.
+2.  
 
-3.       Example: Meet with Marty and questions related to business operations 101 by 6/1.
+3.  
 
 4.       …
 
