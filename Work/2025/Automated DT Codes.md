@@ -192,3 +192,6 @@ Ordering:
 
 This query ensures that for any given time period, each well has at most one active event, with higher-priority events taking precedence over lower-priority ones while maintaining data integrity and traceability.
 
+
+
+# Migrating to DBT project
