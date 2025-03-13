@@ -52,3 +52,9 @@ Taught Matt R up on some PBI stuff so he can start messing around in there and l
 
 # 3/6 
 Chris Clark asked me to refresh the rcfa data for a fresh pull on early failures.  ~1 hr 
+
+# 3/13
+Flare mtg 30 min
+Action items:
+- Rolling 3 hr avg rates for flare vols 
+- Send all thermocouple data as well
