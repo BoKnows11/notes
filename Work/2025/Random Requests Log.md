@@ -58,3 +58,6 @@ Flare mtg 30 min
 Action items:
 - Rolling 3 hr avg rates for flare vols 
 - Send all thermocouple data as well
+
+# 4/3
+Slop tank volumes for Melissa - 2 hrs 
